@@ -18,15 +18,15 @@ Tʜɪs ɪs {me2},
 Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 ᴊɪsᴋᴇ ᴊᴀɪʙ ᴍᴇ ɢᴀɴᴅʜɪ  ᴄʜᴏʀɪ ᴜsᴋᴇ ᴘʏᴀᴀʀ ᴍᴇ ᴀᴀɴᴅʜɪ 🖤.
 
-Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ʙᴀʀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82) !""",
+Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [ʙᴀʀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/JAYSHRI_RAM_JAYSHRI_RAM) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/BRANDED_PAID_CC"),
-                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/BRANDEDKING82")
+                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/ARTIST_i_NETWORK"),
+                    InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/JAYSHRI_RAM_JAYSHRI_RAM")
                 ]
             ]
         ),
