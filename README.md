@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ ARTIST STRING SESSION BOT ❤️</b></h1>
 <p align="center">
   <img src="https://telegra.ph/file/4bb053b03a56f80eaed0a.jpg" alt="StringGen">
 </p>
