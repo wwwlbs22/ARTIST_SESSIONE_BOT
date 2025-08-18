@@ -12,7 +12,7 @@
 ### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/wwwlbs22"><img alt="Website" src="https://img.shields.io/badge/𝘼𝙍𝙏𝙄𝙎𝙏 𓆩🇽𓆪 "></a>
  
-[![𝘼𝙍𝙏𝙄𝙎𝙏 𓆩🇽𓆪 ](https://img.shields.io/github.com/WCGKING/STRING-SESSION?style=social)](https://github.com/wwwlbs22/ARTIST_SESSIONE_BOT/stargazers)
+[![𝘼𝙍𝙏𝙄𝙎𝙏 𓆩🇽𓆪 ](https://img.shields.io/github.com/wwwlbs22/ARTIST_SESSIONE_BOT?style=social)](https://github.com/wwwlbs22/ARTIST_SESSIONE_BOT/stargazers)
   [![Forks](https://img.shields.io/github/forks/WCGKING/STRING-SESSION?style=social)](https://github.com/wwwlbs22/ARTIST_SESSIONE_BOT/fork)
 
 ### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
